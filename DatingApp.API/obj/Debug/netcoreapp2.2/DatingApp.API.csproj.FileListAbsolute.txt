@@ -1,0 +1,28 @@
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+E:\UDEMY\1. Build an app with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
