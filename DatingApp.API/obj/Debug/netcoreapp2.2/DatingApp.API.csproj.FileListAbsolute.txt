@@ -18,7 +18,6 @@ C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular f
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
-C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
@@ -26,3 +25,6 @@ C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular f
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\petar.krstevski\Documents\UDEMY\1.WebApp with ASPNET Core and Angular from scratch\Demo\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
