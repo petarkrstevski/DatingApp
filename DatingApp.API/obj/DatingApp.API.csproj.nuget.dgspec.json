@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\petar.krstevski\\Documents\\UDEMY\\1.WebApp with ASPNET Core and Angular from scratch\\Demo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
+    "C:\\GitRepo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\petar.krstevski\\Documents\\UDEMY\\1.WebApp with ASPNET Core and Angular from scratch\\Demo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
+    "C:\\GitRepo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\petar.krstevski\\Documents\\UDEMY\\1.WebApp with ASPNET Core and Angular from scratch\\Demo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "C:\\GitRepo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\petar.krstevski\\Documents\\UDEMY\\1.WebApp with ASPNET Core and Angular from scratch\\Demo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "C:\\GitRepo\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\petar.krstevski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\petar.krstevski\\Documents\\UDEMY\\1.WebApp with ASPNET Core and Angular from scratch\\Demo\\DatingApp\\DatingApp.API\\obj\\",
+        "outputPath": "C:\\GitRepo\\DatingApp\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

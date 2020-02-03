@@ -1,1 +1,4 @@
 DatingApp.API/.vs/DatingApp.API/v16/Server/sqlite3/db.lock
+DatingApp.API/bin/
+DatingApp.API/obj/
+DatingApp.API/bin/Debug/netcoreapp3.1/DatingApp.API.dll
